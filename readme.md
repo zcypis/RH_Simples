@@ -6,7 +6,6 @@ Sistema de gerenciamento de dados de funcionários via terminal, desenvolvido em
 
 ## Funcionalidades
 
-- Cadastrar funcionário com nome, cargo, salário e departamento
 - Criar filtros personalizados (por cargo, faixa salarial, departamento, etc.)
 - Aplicar transformações nos dados (ex.: ajuste salarial, mascarar informações)
 - Gerar relatórios completos ou filtrados da equipe
